@@ -910,12 +910,12 @@ class _OrderNewEntryState extends State<OrderNewEntry> {
                           //         Icon(Icons.upload_file_rounded),
                           //         Text(
                           //           StringConstants.uploadDocument,
-                          //           style: TextStyle(fontSize: 14),
-                          //         ),
-                          //       ],
-                          //     ),
-                          //   ),
-                          // ),
+                          //           style: TextStyle(fontSize: 14)
+                          //         )
+                          //       ]
+                          //     )
+                          //   )
+                          // )
                           image != null
                               ? SizedBox(
                                   height:
